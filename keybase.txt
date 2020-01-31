@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/randname
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://randna.me
+  * I am randname (https://keybase.io/randname) on keybase.
+  * I have a public key ASBs6BK85bg5G6713qw7sykPHpGYUxDKRCa74R9mcpxR4Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fd73fdb95fdcd3efdd91601e7fb0cbca01a64bbb559967954b524204cd1f344b0a",
+      "host": "keybase.io",
+      "kid": "01206ce812bce5b8391baef5deac3bb3290f1e91985310ca4426bbe11f66729c51e10a",
+      "uid": "9790750f44f4b2e2cf3d66158fdbe419",
+      "username": "randname"
+    },
+    "merkle_root": {
+      "ctime": 1580482041,
+      "hash": "ee9f02f97e07820d1c3b254619d2d3fadbc579e0e7e3d7e0de50c9ba053fda5ec35e1a9e529ca76bf21da04dce7953526188f2af20b7059468f09e5baa6169f6",
+      "hash_meta": "a5330cc69fdabc829f31a03a6e269845dd2ec4c2d6eb23efca6cfb2927916eed",
+      "seqno": 14434689
+    },
+    "service": {
+      "entropy": "r5GrOMbZejY3ZcemdyuHNYN3",
+      "hostname": "randna.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.0"
+  },
+  "ctime": 1580482057,
+  "expire_in": 504576000,
+  "prev": "39ad2202078df649cd0c9c0d0164ac1808da3d4b21df3093a66da2bcaa8c02a9",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgbOgSvOW4ORuu9d6sO7MpDx6RmFMQykQmu+EfZnKcUeEKp3BheWxvYWTESpcCDcQgOa0iAgeN9knNDJwNAWSsGAjaPUsh3zCTpm2ivKqMAqnEIE5vbDYrNN1V73D0XU6tIr5oa7WPBeNLOxgWH90y/gw/AgHCo3NpZ8RAEyXD+nOn0fafT4T83l61XRCSEzYUJzMhM0B8OSaPgCoBAX7izBzEJxaACYd/Ko5YMyFULiBsOS9zBFJrjnQHCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKeOCyIAHJalrzFu5vMwgkz9xFkcor+rSs6SYp1/RWCXo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/randname
+
+==================================================================
