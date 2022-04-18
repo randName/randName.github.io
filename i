@@ -1,21 +1,32 @@
 {
  "@context": ["https://www.w3.org/ns/activitystreams", "https://w3id.org/security/v1"],
- "type": "Person", "id": "https://randna.me/actor",
- "inbox": "https://randna.me/activity/inbox",
- "outbox": "https://randna.me/activity/outbox",
- "followers": "https://randna.me/activity/followers",
- "following": "https://randna.me/activity/following",
+ "id": "https://randna.me/i",
+ "type": "Person",
  "name": "randName()",
+ "url": "https://randna.me",
  "preferredUsername": "randName",
- "summary": "<p>I make stuff 👨‍💻</p>",
+ "summary": "I make stuff 👨‍💻",
+ "manuallyApprovesFollowers": false,
+ "published": "2022-04-16T16:04:22Z",
+ "inbox": "https://randna.me/ap/inbox",
+ "outbox": "https://randna.me/ap/outbox",
+ "featured": "https://randna.me/ap-static/featured",
+ "followers": "https://randna.me/ap-static/followers",
+ "following": "https://randna.me/ap-static/following",
  "icon": { "type": "Image", "mediaType": "image/png", "url": "https://randna.me/avatar.png" },
  "attachment": [
   { "type": "PropertyValue", "name": "site", "value": "<a href=\"https://randna.me/\">randna.me</a>" },
   { "type": "PropertyValue", "name": "location", "value": "Singapore" },
   { "type": "PropertyValue", "name": "pronouns", "value": "he/him" }
  ],
+ "tag": [
+ ],
+ "alsoKnownAs": [
+  "https://kopiti.am/users/randName",
+  "https://misskey.dev/users/8z6lgkz571"
+ ],
  "publicKey": {
-  "id": "https://randna.me/actor#main-key", "owner": "https://randna.me/actor",
+  "id": "https://randna.me/i#main-key", "owner": "https://randna.me/i",
   "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAydnkHFfe8E/SrLeTwIfh\nWMDIBJDelWfYoEfnIs675T1J+IryimLAvaLqX6K6tR9eyvtJbab0yhBFeaWZPF7O\n6QK++EVyPpiheaRXVlc0QqF6N+rYvij3xLKgszZorn8ARrD8vg+q4Yp2vEdD0nzn\nvR+iV02zwsbVPl5FWZ0YndTcy2v7uBAaqf7Mb9ys8UHHoAu7z+NzK0LPo8LLO6KT\nyFYUQJQtTe77Ii1/3etzBqKh2jVBpaN4n/G6kbUu2GmxKf7VhVgSaCHKmM1hYoxg\nha+3+AekeBjioFfEjcslbd/uvC8HBegAGT1H9nFGrto/BAu7wK/pqpPHCdTkl3E5\nDwIDAQAB\n-----END PUBLIC KEY-----"
  }
 }

@@ -1,0 +1,12 @@
+{
+ "@context": ["https://www.w3.org/ns/activitystreams", "https://w3id.org/security/v1"],
+ "id": "https://randna.me/ap-static/following",
+ "type": "OrderedCollection",
+ "totalItems": 4,
+ "orderedItems": [
+  "https://misskey.dev/users/8z6lgkz571",
+  "https://misc.name/users/scanlime",
+  "https://friend.camp/users/darius",
+  "https://kopiti.am/users/randName"
+ ]
+}
